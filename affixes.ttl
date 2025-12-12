@@ -1,0 +1,983 @@
+@prefix :         <https://github.com/adamfengxx/italian-derivmorph-small/morph#> .
+@prefix morph:    <http://www.w3.org/ns/lemon/morph#> .
+@prefix ontolex:  <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+
+:m_22 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-iere"@it ;
+    ontolex:canonicalForm :f_22 ;
+    ontolex:sense
+        [ skos:definition "Regolare: nome di relazione"@it ] ,
+        [ skos:definition "Irregolare: nome di luogo, collettivo"@it ] .
+
+:f_22 a ontolex:Form ;
+    ontolex:writtenRep "-iere"@it .
+
+:m_6 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-1aio"@it ;
+    ontolex:canonicalForm :f_6 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di relazione"@it ] .
+
+:f_6 a ontolex:Form ;
+    ontolex:writtenRep "-aio"@it ,
+"-aro"@it .
+
+:m_54 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-1eria"@it ;
+    ontolex:canonicalForm :f_54 .
+
+:f_54 a ontolex:Form ;
+    ontolex:writtenRep "-eria"@it .
+
+:m_29 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-1ino"@it ;
+    ontolex:canonicalForm :f_29 ;
+    ontolex:sense
+        [ skos:definition "Regolare: diminutivo, valutativo (vezzeggiativo)"@it ] ,
+        [ skos:definition "Irregolare: nome di relazione, di strumento"@it ] .
+
+:f_29 a ontolex:Form ;
+    ontolex:writtenRep "-ino"@it .
+
+:m_57 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-1one"@it ;
+    ontolex:canonicalForm :f_57 .
+
+:f_57 a ontolex:Form ;
+    ontolex:writtenRep "-one"@it .
+
+:m_7 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-2aio"@it ;
+    ontolex:canonicalForm :f_7 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di luogo"@it ] .
+
+:f_7 a ontolex:Form ;
+    ontolex:writtenRep "-aio"@it .
+
+:m_55 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-2eria"@it ;
+    ontolex:canonicalForm :f_55 .
+
+:f_55 a ontolex:Form ;
+    ontolex:writtenRep "-eria"@it .
+
+:m_30 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-2ino"@it ;
+    ontolex:canonicalForm :f_30 ;
+    ontolex:sense
+        [ skos:definition "Regolare: nome di relazione: etnonimo"@it ] .
+
+:f_30 a ontolex:Form ;
+    ontolex:writtenRep "-ino"@it .
+
+:m_58 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-2one"@it ;
+    ontolex:canonicalForm :f_58 .
+
+:f_58 a ontolex:Form ;
+    ontolex:writtenRep "-one"@it .
+
+:m_66 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-acchiare"@it ;
+    ontolex:canonicalForm :f_66 .
+
+:f_66 a ontolex:Form ;
+    ontolex:writtenRep "-acchiare"@it .
+
+:m_67 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-acchio"@it ;
+    ontolex:canonicalForm :f_67 .
+
+:f_67 a ontolex:Form ;
+    ontolex:writtenRep "-acchio"@it .
+
+:m_1 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-accio"@it ;
+    ontolex:canonicalForm :f_1 ;
+    ontolex:sense
+        [ skos:definition "Regolare: nome valutativo (peggiorativo)"@it ] ,
+        [ skos:definition "Irregolare:nome di strumento"@it ] .
+
+:f_1 a ontolex:Form ;
+    ontolex:writtenRep "-accio"@it .
+
+:m_68 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ace"@it ;
+    ontolex:canonicalForm :f_68 .
+
+:f_68 a ontolex:Form ;
+    ontolex:writtenRep "-ace"@it .
+
+:m_2 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-aceo"@it ;
+    ontolex:canonicalForm :f_2 ;
+    ontolex:sense
+        [ skos:definition "Regolare:aggettivo qualitativo"@it ] ,
+        [ skos:definition "Irregolare:aggettivo relativo"@it ] .
+
+:f_2 a ontolex:Form ;
+    ontolex:writtenRep "-aceo"@it .
+
+:m_4 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-aggio"@it ;
+    ontolex:canonicalForm :f_4 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di evento,di stato,di risultato"@it ] ,
+        [ skos:definition "Irregolare:nome di luogo,collettivo"@it ] .
+
+:f_4 a ontolex:Form ;
+    ontolex:writtenRep "-aggio"@it .
+
+:m_5 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-aglia"@it ;
+    ontolex:canonicalForm :f_5 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome peggiorativo,collettivo"@it ] .
+
+:f_5 a ontolex:Form ;
+    ontolex:writtenRep "-aglia"@it .
+
+:m_8 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ale"@it ;
+    ontolex:canonicalForm :f_8 ;
+    ontolex:sense
+        [ skos:definition "Regolare:aggettivo relativo"@it ] ,
+        [ skos:definition "Irregolare:aggetitivo qualiﬁcativo"@it ] .
+
+:f_8 a ontolex:Form ;
+    ontolex:writtenRep "-ale"@it ,
+"-are"@it ,
+"-iale"@it ,
+"-uale"@it .
+
+:m_52 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ano"@it ;
+    ontolex:canonicalForm :f_52 .
+
+:f_52 a ontolex:Form ;
+    ontolex:writtenRep "-ano"@it .
+
+:m_9 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ardo"@it ;
+    ontolex:canonicalForm :f_9 ;
+    ontolex:sense
+        [ skos:definition "Regolare:aggettivo relativo/nome di relazione"@it ] .
+
+:f_9 a ontolex:Form ;
+    ontolex:writtenRep "-ardo"@it .
+
+:m_10 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ario"@it ;
+    ontolex:canonicalForm :f_10 ;
+    ontolex:sense
+        [ skos:definition "Regolare:aggettivo relativo/nome di relazione, di luogo, collettivo"@it ] .
+
+:f_10 a ontolex:Form ;
+    ontolex:writtenRep "-ario"@it .
+
+:m_69 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ata"@it ;
+    ontolex:canonicalForm :f_69 .
+
+:f_69 a ontolex:Form ;
+    ontolex:writtenRep "-ata"@it .
+
+:m_70 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ato"@it ;
+    ontolex:canonicalForm :f_70 .
+
+:f_70 a ontolex:Form ;
+    ontolex:writtenRep "-ato"@it .
+
+:m_71 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-azzare"@it ;
+    ontolex:canonicalForm :f_71 .
+
+:f_71 a ontolex:Form ;
+    ontolex:writtenRep "-azzare"@it .
+
+:m_13 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-bile"@it ;
+    ontolex:canonicalForm :f_13 ;
+    ontolex:sense
+        [ skos:definition "Regolare:aggettivo qualitativo"@it ] .
+
+:f_13 a ontolex:Form ;
+    ontolex:writtenRep "-bile"@it ,
+"-ibile"@it .
+
+:m_17 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-eggiare"@it ;
+    ontolex:canonicalForm :f_17 .
+
+:f_17 a ontolex:Form ;
+    ontolex:writtenRep "-eggiare"@it .
+
+:m_72 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ela"@it ;
+    ontolex:canonicalForm :f_72 .
+
+:f_72 a ontolex:Form ;
+    ontolex:writtenRep "-ela"@it .
+
+:m_73 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-eo"@it ;
+    ontolex:canonicalForm :f_73 .
+
+:f_73 a ontolex:Form ;
+    ontolex:writtenRep "-eo"@it ,
+"-aneo"@it .
+
+:m_56 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-esco"@it ;
+    ontolex:canonicalForm :f_56 .
+
+:f_56 a ontolex:Form ;
+    ontolex:writtenRep "-esco"@it .
+
+:m_74 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ese"@it ;
+    ontolex:canonicalForm :f_74 .
+
+:f_74 a ontolex:Form ;
+    ontolex:writtenRep "-ese"@it .
+
+:m_75 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-esimo"@it ;
+    ontolex:canonicalForm :f_75 .
+
+:f_75 a ontolex:Form ;
+    ontolex:writtenRep "-esimo"@it .
+
+:m_18 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-etto"@it ;
+    ontolex:canonicalForm :f_18 ;
+    ontolex:sense
+        [ skos:definition "Regolare: diminutivo, valutativo (vezzeggiativo)"@it ] ,
+        [ skos:definition "Irregolare: nome collettivo, -pacchetto"@it ] .
+
+:f_18 a ontolex:Form ;
+    ontolex:writtenRep "-etto"@it .
+
+:m_19 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-evole"@it ;
+    ontolex:canonicalForm :f_19 ;
+    ontolex:sense
+        [ skos:definition "Regolare: aggettivo qualitativo"@it ] .
+
+:f_19 a ontolex:Form ;
+    ontolex:writtenRep "-evole"@it .
+
+:m_20 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ezza"@it ;
+    ontolex:canonicalForm :f_20 ;
+    ontolex:sense
+        [ skos:definition "Regolare: nome di qualità"@it ] ,
+        [ skos:definition "Irregolare: nome di stato, -pacchetto, di luogo"@it ] .
+
+:f_20 a ontolex:Form ;
+    ontolex:writtenRep "-ezza"@it .
+
+:m_76 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ìa"@it ;
+    ontolex:canonicalForm :f_76 .
+
+:f_76 a ontolex:Form ;
+    ontolex:writtenRep "-ìa"@it ,
+"-ia"@it .
+
+:m_62 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-iano"@it ;
+    ontolex:canonicalForm :f_62 .
+
+:f_62 a ontolex:Form ;
+    ontolex:writtenRep "-iano"@it .
+
+:m_77 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ica"@it ;
+    ontolex:canonicalForm :f_77 .
+
+:f_77 a ontolex:Form ;
+    ontolex:writtenRep "-ica"@it .
+
+:m_78 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-icare"@it ;
+    ontolex:canonicalForm :f_78 .
+
+:f_78 a ontolex:Form ;
+    ontolex:writtenRep "-icare"@it .
+
+:m_21 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ico"@it ;
+    ontolex:canonicalForm :f_21 ;
+    ontolex:sense
+        [ skos:definition "Regolare: aggettivo relativo"@it ] ,
+        [ skos:definition "Irregolare: aggettivo qualitativo"@it ] .
+
+:f_21 a ontolex:Form ;
+    ontolex:writtenRep "- ico"@it .
+
+:m_79 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-icolo"@it ;
+    ontolex:canonicalForm :f_79 .
+
+:f_79 a ontolex:Form ;
+    ontolex:writtenRep "-icolo"@it .
+
+:m_80 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-iera"@it ;
+    ontolex:canonicalForm :f_80 .
+
+:f_80 a ontolex:Form ;
+    ontolex:writtenRep "-iera"@it .
+
+:m_23 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-iero"@it ;
+    ontolex:canonicalForm :f_23 ;
+    ontolex:sense
+        [ skos:definition "Regolare: aggettivo relativo / nome di relazione"@it ] ,
+        [ skos:definition "Irregolare: nome di luogo"@it ] .
+
+:f_23 a ontolex:Form ;
+    ontolex:writtenRep "-iero"@it .
+
+:m_24 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ificare"@it ;
+    ontolex:canonicalForm :f_24 ;
+    ontolex:sense
+        [ skos:definition "Regolare: VPO (indir.): causativo, incoativo"@it ] ,
+        [ skos:definition "Irregolare: VPO (dir.): performativo, ornativo, locativo"@it ] .
+
+:f_24 a ontolex:Form ;
+    ontolex:writtenRep "-ificare"@it .
+
+:m_59 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ificio"@it ;
+    ontolex:canonicalForm :f_59 .
+
+:f_59 a ontolex:Form ;
+    ontolex:writtenRep "-ificio"@it .
+
+:m_60 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ifico"@it ;
+    ontolex:canonicalForm :f_60 .
+
+:f_60 a ontolex:Form ;
+    ontolex:writtenRep "-ifico"@it .
+
+:m_26 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-igia"@it ;
+    ontolex:canonicalForm :f_26 ;
+    ontolex:sense
+        [ skos:definition "Regolare: nome di qualità"@it ] .
+
+:f_26 a ontolex:Form ;
+    ontolex:writtenRep "-igia"@it .
+
+:m_61 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ile"@it ;
+    ontolex:canonicalForm :f_61 .
+
+:f_61 a ontolex:Form ;
+    ontolex:writtenRep "-ile"@it .
+
+:m_31 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ismo"@it ;
+    ontolex:canonicalForm :f_31 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di sistema"@it ] .
+
+:f_31 a ontolex:Form ;
+    ontolex:writtenRep "-ismo"@it ,
+"-esimo"@it .
+
+:m_32 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ista"@it ;
+    ontolex:canonicalForm :f_32 ;
+    ontolex:sense
+        [ skos:definition "Regolare:aggettivo relativo/nome di relazione"@it ] .
+
+:f_32 a ontolex:Form ;
+    ontolex:writtenRep "-ista"@it .
+
+:m_81 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-istica"@it ;
+    ontolex:canonicalForm :f_81 .
+
+:f_81 a ontolex:Form ;
+    ontolex:writtenRep "-istica"@it .
+
+:m_33 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-istico"@it ;
+    ontolex:canonicalForm :f_33 ;
+    ontolex:sense
+        [ skos:definition "Regolare:aggettivo relativo"@it ] .
+
+:f_33 a ontolex:Form ;
+    ontolex:writtenRep "-istico"@it .
+
+:m_34 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ità"@it ;
+    ontolex:canonicalForm :f_34 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di qualità"@it ] ,
+        [ skos:definition "Irregolare: nome di stato, -pacchetto, collettivo, di luogo"@it ] .
+
+:f_34 a ontolex:Form ;
+    ontolex:writtenRep "-età"@it ,
+"-ità"@it ,
+"-tà"@it .
+
+:m_51 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ivo"@it ;
+    ontolex:canonicalForm :f_51 .
+
+:f_51 a ontolex:Form ;
+    ontolex:writtenRep "-ivo"@it ,
+"-tivo"@it .
+
+:m_35 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-izia"@it ;
+    ontolex:canonicalForm :f_35 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di qualità"@it ] ,
+        [ skos:definition "Irregolare:nome di stato, -pacchetto, collettivo"@it ] .
+
+:f_35 a ontolex:Form ;
+    ontolex:writtenRep "-izia"@it .
+
+:m_82 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-izio"@it ;
+    ontolex:canonicalForm :f_82 .
+
+:f_82 a ontolex:Form ;
+    ontolex:writtenRep "-izio"@it .
+
+:m_25 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-izzare"@it ;
+    ontolex:canonicalForm :f_25 ;
+    ontolex:sense
+        [ skos:definition "Regolare: VPO (indir.): causativo"@it ] .
+
+:f_25 a ontolex:Form ;
+    ontolex:writtenRep "-izzare"@it .
+
+:m_36 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-mente"@it ;
+    ontolex:canonicalForm :f_36 ;
+    ontolex:sense
+        [ skos:definition "Regolare:avverbio di modo"@it ] .
+
+:f_36 a ontolex:Form ;
+    ontolex:writtenRep "-mente"@it .
+
+:m_37 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-mento"@it ;
+    ontolex:canonicalForm :f_37 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di evento,di stato,di risultato"@it ] ,
+        [ skos:definition "Irregolare:nome collettivo,di maniera,di luogo"@it ] .
+
+:f_37 a ontolex:Form ;
+    ontolex:writtenRep "-mento"@it .
+
+:m_83 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-nte"@it ;
+    ontolex:canonicalForm :f_83 .
+
+:f_83 a ontolex:Form ;
+    ontolex:writtenRep "-nte"@it .
+
+:m_84 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-nto"@it ;
+    ontolex:canonicalForm :f_84 .
+
+:f_84 a ontolex:Form ;
+    ontolex:writtenRep "-nto"@it .
+
+:m_40 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-nza"@it ;
+    ontolex:canonicalForm :f_40 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di qualità"@it ] ,
+        [ skos:definition "Irregolare:nome di stato, -pacchetto,collettivo,di luogo"@it ] .
+
+:f_40 a ontolex:Form ;
+    ontolex:writtenRep "-nza"@it .
+
+:m_85 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-oide"@it ;
+    ontolex:canonicalForm :f_85 .
+
+:f_85 a ontolex:Form ;
+    ontolex:writtenRep "-oide"@it .
+
+:m_86 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-olo"@it ;
+    ontolex:canonicalForm :f_86 .
+
+:f_86 a ontolex:Form ;
+    ontolex:writtenRep "-olo"@it .
+
+:m_41 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-oso"@it ;
+    ontolex:canonicalForm :f_41 ;
+    ontolex:sense
+        [ skos:definition "Regolare:aggettivo qualitativo"@it ] .
+
+:f_41 a ontolex:Form ;
+    ontolex:writtenRep "-oso"@it ,
+"-uoso"@it ,
+"-ioso"@it .
+
+:m_87 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-plicare"@it ;
+    ontolex:canonicalForm :f_87 .
+
+:f_87 a ontolex:Form ;
+    ontolex:writtenRep "-plicare"@it .
+
+:m_88 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-plice"@it ;
+    ontolex:canonicalForm :f_88 .
+
+:f_88 a ontolex:Form ;
+    ontolex:writtenRep "-plice"@it .
+
+:m_48 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-tore"@it ;
+    ontolex:canonicalForm :f_48 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di agente,di strumento"@it ] .
+
+:f_48 a ontolex:Form ;
+    ontolex:writtenRep "-tore"@it ,
+"-ore"@it .
+
+:m_47 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-torio"@it ;
+    ontolex:canonicalForm :f_47 ;
+    ontolex:sense
+        [ skos:definition "Regolare:aggettivo relativo, qualiﬁcativo"@it ] .
+
+:f_47 a ontolex:Form ;
+    ontolex:writtenRep "-torio"@it ,
+"-orio"@it .
+
+:m_46 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-trice"@it ;
+    ontolex:canonicalForm :f_46 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di agente,di strumento"@it ] .
+
+:f_46 a ontolex:Form ;
+    ontolex:writtenRep "-trice"@it .
+
+:m_49 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-tura"@it ;
+    ontolex:canonicalForm :f_49 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di evento,di risultato,di stato"@it ] ,
+        [ skos:definition "Irregolare:nomecollettivo,dimaniera,diluogo"@it ] .
+
+:f_49 a ontolex:Form ;
+    ontolex:writtenRep "-tura"@it ,
+"-ura"@it .
+
+:m_63 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-uccio"@it ;
+    ontolex:canonicalForm :f_63 .
+
+:f_63 a ontolex:Form ;
+    ontolex:writtenRep "-uccio"@it .
+
+:m_89 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ula"@it ;
+    ontolex:canonicalForm :f_89 .
+
+:f_89 a ontolex:Form ;
+    ontolex:writtenRep "-ula"@it .
+
+:m_90 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ulo"@it ;
+    ontolex:canonicalForm :f_90 .
+
+:f_90 a ontolex:Form ;
+    ontolex:writtenRep "-ulo"@it ,
+"-olo"@it .
+
+:m_91 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-uplo"@it ;
+    ontolex:canonicalForm :f_91 .
+
+:f_91 a ontolex:Form ;
+    ontolex:writtenRep "-uplo"@it .
+
+:m_50 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-zione"@it ;
+    ontolex:canonicalForm :f_50 ;
+    ontolex:sense
+        [ skos:definition "Regolare:nome di evento,di stato,di risultato"@it ] ,
+        [ skos:definition "Irregolare:nomecollettivo,diluogo,dimaniera"@it ] .
+
+:f_50 a ontolex:Form ;
+    ontolex:writtenRep "-zione"@it ,
+"-ione"@it ,
+"-gione"@it .
+
+:m_14 a morph:Morph , ontolex:Affix ;
+    rdfs:label "1de-"@it ;
+    ontolex:canonicalForm :f_14 ;
+    ontolex:sense
+        [ skos:definition "Regolare: verbo inversivo"@it ] .
+
+:f_14 a ontolex:Form ;
+    ontolex:writtenRep "de-"@it .
+
+:m_27 a morph:Morph , ontolex:Affix ;
+    rdfs:label "1in-"@it ;
+    ontolex:canonicalForm :f_27 ;
+    ontolex:sense
+        [ skos:definition "Regolare: inversivo"@it ] .
+
+:f_27 a ontolex:Form ;
+    ontolex:writtenRep "im-"@it ,
+"in-"@it ,
+"il-"@it ,
+"ir-"@it .
+
+:m_43 a morph:Morph , ontolex:Affix ;
+    rdfs:label "1s-"@it ;
+    ontolex:canonicalForm :f_43 ;
+    ontolex:sense
+        [ skos:definition "Regolare:inversivo"@it ] .
+
+:f_43 a ontolex:Form ;
+    ontolex:writtenRep "s-"@it .
+
+:m_15 a morph:Morph , ontolex:Affix ;
+    rdfs:label "2de-"@it ;
+    ontolex:canonicalForm :f_15 ;
+    ontolex:sense
+        [ skos:definition "Regolare:VPO (indir.): causativo"@it ] ,
+        [ skos:definition "Irregolare:VPO(dir.):ornativo"@it ] ,
+        [ skos:definition "VPO(semplice)"@it ] .
+
+:f_15 a ontolex:Form ;
+    ontolex:writtenRep "de-"@it ,
+"di-"@it .
+
+:m_28 a morph:Morph , ontolex:Affix ;
+    rdfs:label "2in-"@it ;
+    ontolex:canonicalForm :f_28 ;
+    ontolex:sense
+        [ skos:definition "Regolare: VPO (indir.): incoativo, locativo, strumentale"@it ] ,
+        [ skos:definition "Irregolare: VPO (dir.): ornativo, incoativo"@it ] ,
+        [ skos:definition "VPO (semplice)"@it ] .
+
+:f_28 a ontolex:Form ;
+    ontolex:writtenRep "im-"@it ,
+"in-"@it ,
+"il-"@it ,
+"ir-"@it .
+
+:m_44 a morph:Morph , ontolex:Affix ;
+    rdfs:label "2s-"@it ;
+    ontolex:canonicalForm :f_44 ;
+    ontolex:sense
+        [ skos:definition "Regolare:VPO(dir.eindir.): privativo, strumentale, causativo"@it ] ,
+        [ skos:definition "Irregolare:VPO(semplice)"@it ] .
+
+:f_44 a ontolex:Form ;
+    ontolex:writtenRep "s-"@it .
+
+:m_53 a morph:Morph , ontolex:Affix ;
+    rdfs:label "a-"@it ;
+    ontolex:canonicalForm :f_53 .
+
+:f_53 a ontolex:Form ;
+    ontolex:writtenRep "a-"@it .
+
+:m_3 a morph:Morph , ontolex:Affix ;
+    rdfs:label "acons-"@it ;
+    ontolex:canonicalForm :f_3 ;
+    ontolex:sense
+        [ skos:definition "Regolare:VPO(indir.):incoativo,causativo,strumentale,locativo"@it ] ,
+        [ skos:definition "Irregolare:VPO(dir.):performativo,privativo"@it ] ,
+        [ skos:definition "VPO(semplice)"@it ] .
+
+:f_3 a ontolex:Form ;
+    ontolex:writtenRep "ad-"@it .
+
+:m_92 a morph:Morph , ontolex:Affix ;
+    rdfs:label "ambi-"@it ;
+    ontolex:canonicalForm :f_92 .
+
+:f_92 a ontolex:Form ;
+    ontolex:writtenRep "ambi-"@it .
+
+:m_11 a morph:Morph , ontolex:Affix ;
+    rdfs:label "auto-"@it ;
+    ontolex:canonicalForm :f_11 ;
+    ontolex:sense
+        [ skos:definition "Regolare: riﬂessivo, coreferenziale"@it ] .
+
+:f_11 a ontolex:Form ;
+    ontolex:writtenRep "auto-"@it .
+
+:m_12 a morph:Morph , ontolex:Affix ;
+    rdfs:label "bi-"@it ;
+    ontolex:canonicalForm :f_12 ;
+    ontolex:sense
+        [ skos:definition "Regolare: duplicativo"@it ] .
+
+:f_12 a ontolex:Form ;
+    ontolex:writtenRep "bi-"@it ,
+"bis-"@it .
+
+:m_93 a morph:Morph , ontolex:Affix ;
+    rdfs:label "cis-"@it ;
+    ontolex:canonicalForm :f_93 .
+
+:f_93 a ontolex:Form ;
+    ontolex:writtenRep "cis-"@it .
+
+:m_64 a morph:Morph , ontolex:Affix ;
+    rdfs:label "co-"@it ;
+    ontolex:canonicalForm :f_64 .
+
+:f_64 a ontolex:Form ;
+    ontolex:writtenRep "co-"@it ,
+"con-"@it ,
+"com-"@it ,
+"cor"@it .
+
+:m_65 a morph:Morph , ontolex:Affix ;
+    rdfs:label "con-"@it ;
+    ontolex:canonicalForm :f_65 .
+
+:f_65 a ontolex:Form ;
+    ontolex:writtenRep "con-"@it ,
+"com-"@it .
+
+:m_16 a morph:Morph , ontolex:Affix ;
+    rdfs:label "dis-"@it ;
+    ontolex:canonicalForm :f_16 ;
+    ontolex:sense
+        [ skos:definition "Regolare: inversivo"@it ] .
+
+:f_16 a ontolex:Form ;
+    ontolex:writtenRep "dis-"@it .
+
+:m_94 a morph:Morph , ontolex:Affix ;
+    rdfs:label "ex-"@it ;
+    ontolex:canonicalForm :f_94 .
+
+:f_94 a ontolex:Form ;
+    ontolex:writtenRep "ex-"@it .
+
+:m_95 a morph:Morph , ontolex:Affix ;
+    rdfs:label "fra-"@it ;
+    ontolex:canonicalForm :f_95 .
+
+:f_95 a ontolex:Form ;
+    ontolex:writtenRep "fra-"@it .
+
+:m_96 a morph:Morph , ontolex:Affix ;
+    rdfs:label "inter-"@it ;
+    ontolex:canonicalForm :f_96 .
+
+:f_96 a ontolex:Form ;
+    ontolex:writtenRep "inter-"@it .
+
+:m_97 a morph:Morph , ontolex:Affix ;
+    rdfs:label "intra-"@it ;
+    ontolex:canonicalForm :f_97 .
+
+:f_97 a ontolex:Form ;
+    ontolex:writtenRep "intra-"@it .
+
+:m_98 a morph:Morph , ontolex:Affix ;
+    rdfs:label "iper-"@it ;
+    ontolex:canonicalForm :f_98 .
+
+:f_98 a ontolex:Form ;
+    ontolex:writtenRep "iper-"@it .
+
+:m_99 a morph:Morph , ontolex:Affix ;
+    rdfs:label "maxi-"@it ;
+    ontolex:canonicalForm :f_99 .
+
+:f_99 a ontolex:Form ;
+    ontolex:writtenRep "maxi-"@it .
+
+:m_100 a morph:Morph , ontolex:Affix ;
+    rdfs:label "mega-"@it ;
+    ontolex:canonicalForm :f_100 .
+
+:f_100 a ontolex:Form ;
+    ontolex:writtenRep "mega-"@it .
+
+:m_38 a morph:Morph , ontolex:Affix ;
+    rdfs:label "micro-"@it ;
+    ontolex:canonicalForm :f_38 ;
+    ontolex:sense
+        [ skos:definition "Regolare:diminutivo"@it ] .
+
+:f_38 a ontolex:Form ;
+    ontolex:writtenRep "micro-"@it .
+
+:m_39 a morph:Morph , ontolex:Affix ;
+    rdfs:label "mini-"@it ;
+    ontolex:canonicalForm :f_39 ;
+    ontolex:sense
+        [ skos:definition "Regolare:diminutivo"@it ] .
+
+:f_39 a ontolex:Form ;
+    ontolex:writtenRep "mini-"@it .
+
+:m_101 a morph:Morph , ontolex:Affix ;
+    rdfs:label "mono-"@it ;
+    ontolex:canonicalForm :f_101 .
+
+:f_101 a ontolex:Form ;
+    ontolex:writtenRep "mono-"@it .
+
+:m_102 a morph:Morph , ontolex:Affix ;
+    rdfs:label "multi-"@it ;
+    ontolex:canonicalForm :f_102 .
+
+:f_102 a ontolex:Form ;
+    ontolex:writtenRep "multi-"@it .
+
+:m_103 a morph:Morph , ontolex:Affix ;
+    rdfs:label "neo-"@it ;
+    ontolex:canonicalForm :f_103 .
+
+:f_103 a ontolex:Form ;
+    ontolex:writtenRep "neo-"@it .
+
+:m_104 a morph:Morph , ontolex:Affix ;
+    rdfs:label "ob-"@it ;
+    ontolex:canonicalForm :f_104 .
+
+:f_104 a ontolex:Form ;
+    ontolex:writtenRep "ob-"@it ,
+"ot-"@it .
+
+:m_105 a morph:Morph , ontolex:Affix ;
+    rdfs:label "pan-"@it ;
+    ontolex:canonicalForm :f_105 .
+
+:f_105 a ontolex:Form ;
+    ontolex:writtenRep "pan-"@it .
+
+:m_106 a morph:Morph , ontolex:Affix ;
+    rdfs:label "para-"@it ;
+    ontolex:canonicalForm :f_106 .
+
+:f_106 a ontolex:Form ;
+    ontolex:writtenRep "para-"@it .
+
+:m_107 a morph:Morph , ontolex:Affix ;
+    rdfs:label "per-"@it ;
+    ontolex:canonicalForm :f_107 .
+
+:f_107 a ontolex:Form ;
+    ontolex:writtenRep "per-"@it .
+
+:m_108 a morph:Morph , ontolex:Affix ;
+    rdfs:label "pluri-"@it ;
+    ontolex:canonicalForm :f_108 .
+
+:f_108 a ontolex:Form ;
+    ontolex:writtenRep "pluri-"@it .
+
+:m_109 a morph:Morph , ontolex:Affix ;
+    rdfs:label "poli-"@it ;
+    ontolex:canonicalForm :f_109 .
+
+:f_109 a ontolex:Form ;
+    ontolex:writtenRep "poli-"@it .
+
+:m_110 a morph:Morph , ontolex:Affix ;
+    rdfs:label "pre-"@it ;
+    ontolex:canonicalForm :f_110 .
+
+:f_110 a ontolex:Form ;
+    ontolex:writtenRep "pre-"@it .
+
+:m_111 a morph:Morph , ontolex:Affix ;
+    rdfs:label "pro-"@it ;
+    ontolex:canonicalForm :f_111 .
+
+:f_111 a ontolex:Form ;
+    ontolex:writtenRep "pro-"@it .
+
+:m_112 a morph:Morph , ontolex:Affix ;
+    rdfs:label "proto-"@it ;
+    ontolex:canonicalForm :f_112 .
+
+:f_112 a ontolex:Form ;
+    ontolex:writtenRep "proto-"@it .
+
+:m_42 a morph:Morph , ontolex:Affix ;
+    rdfs:label "ri-"@it ;
+    ontolex:canonicalForm :f_42 ;
+    ontolex:sense
+        [ skos:definition "Regolare:iterativo"@it ] ,
+        [ skos:definition "Irregolare:VPO(dir.): performativo"@it ] ,
+        [ skos:definition "VPO(semplice)"@it ] .
+
+:f_42 a ontolex:Form ;
+    ontolex:writtenRep "ri-"@it ,
+"re-"@it .
+
+:m_113 a morph:Morph , ontolex:Affix ;
+    rdfs:label "stra-"@it ;
+    ontolex:canonicalForm :f_113 .
+
+:f_113 a ontolex:Form ;
+    ontolex:writtenRep "stra-"@it .
+
+:m_45 a morph:Morph , ontolex:Affix ;
+    rdfs:label "trans-"@it ;
+    ontolex:canonicalForm :f_45 ;
+    ontolex:sense
+        [ skos:definition "Regolare:traslativo"@it ] .
+
+:f_45 a ontolex:Form ;
+    ontolex:writtenRep "trans-"@it ,
+"tras-"@it .
+
+:m_114 a morph:Morph , ontolex:Affix ;
+    rdfs:label "tri-"@it ;
+    ontolex:canonicalForm :f_114 .
+
+:f_114 a ontolex:Form ;
+    ontolex:writtenRep "tri-"@it .
+
+:m_115 a morph:Morph , ontolex:Affix ;
+    rdfs:label "anti-"@it ;
+    ontolex:canonicalForm :f_115 .
+
+:f_115 a ontolex:Form ;
+    ontolex:writtenRep "anti-"@it .
+
+:m_116 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-ello"@it ;
+    ontolex:canonicalForm :f_116 .
+
+:f_116 a ontolex:Form ;
+    ontolex:writtenRep "-ello"@it .
+
+:m_117 a morph:Morph , ontolex:Affix ;
+    rdfs:label "-one"@it ;
+    ontolex:canonicalForm :f_117 .
+
+:f_117 a ontolex:Form ;
+    ontolex:writtenRep "-one"@it .
+
